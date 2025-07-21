@@ -1,4 +1,5 @@
 🪙 Gold Price Forecasting Using Time Series Analysis (ARIMA & SARIMA)
+
 This project performs time series analysis and forecasting on monthly gold prices using ARIMA and SARIMA models. The analysis is conducted in Python using yfinance for data extraction, statsmodels for modeling, and matplotlib for visualization. It includes a full Streamlit app for interactive forecasting and model comparison.
 
 📦 Features
